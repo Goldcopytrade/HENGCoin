@@ -1,6 +1,6 @@
 # HENGCoin, The Token Of Web3 Technology
 
-<div align="center"><img src="https://hengcoin.com/main/wp-content/uploads/2024/03/cropped-hc100x100.fw_.png" /><br />
+<div align="center"><img src="https://hengcoin.com/main/wp-content/uploads/2024/03/431904324_380707951484484_6171902854111720794_n-removebg-preview.fw_.png" /><br />
 </div>
 <div align="center">
   <h1>
