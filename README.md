@@ -58,7 +58,7 @@ Must be utility-based usage only
 No guarantee of financial benefit or returns
 Integrations must be independently implemented by third parties
 
-   ⚠️ This reflects our stance on supporting safe and transparent utility usage of HENGCoin on external systems — not investment.
+   ⚠️ This reflects our stance on supporting safe and transparent utility usage of HENGCoin on external systems — not investment.<br>
 📌 Legal Disclaimer (Required on all public pages)
 
    ⚠️ HENGCOIN is a utility token designed solely for accessing features within the HENG ecosystem.
