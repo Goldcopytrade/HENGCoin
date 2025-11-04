@@ -63,8 +63,8 @@ Integrations must be independently implemented by third parties
 
    ⚠️ HENGCOIN is a utility token designed solely for accessing features within the HENG ecosystem.
 It is not an investment, offers no interest or financial gain, and is not a financial instrument.
-All services are intended for actual Web3 utility usage only.
-
+All services are intended for actual Web3 utility usage only.<br>
+</div>
 📞 Official Contacts & Information<br>
 🌐 Website: https://www.hengcoin.com<br>
 🐦 Twitter (X): @HENGUtility<br>
