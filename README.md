@@ -66,10 +66,10 @@ It is not an investment, offers no interest or financial gain, and is not a fina
 All services are intended for actual Web3 utility usage only.<br>
 </div>
 📞 Official Contacts & Information<br>
-🌐 Website: https://www.hengcoin.com<br>
+🌐 Website: https://www.hengutility.com<br>
 🐦 Twitter (X): @HENGUtility<br>
 📣 Telegram: https://t.me/HENGUtility<br>
 ▶️ YouTube: HENGUtility<br>
 🔐 Smart Contract (BSC): 0x65BBa7bDB1ec1c1A0917C9aa766CD4391182e87d<br>
 
-# HENGCoin
+# HENG Utility
