@@ -1,4 +1,4 @@
-# 🟡 HENGCoin – Token for Web3 Utility Access
+# 🟡 Heng Utility – Token for Web3 Utility Access
 
 <div align="center"><img src="https://hengcoin.com/wp-content/uploads/2025/09/cropped-1000075297.png" /><br />
 </div>
