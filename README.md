@@ -44,7 +44,7 @@ Product listings comply with Thai e-commerce standards
    ⚠️ Not a trading or investment platform
 All usage is strictly under utility format only.
 
-🔄 HENGEx (Utility Conversion Portal)
+🔄 HENG Utility Hub (Utility Conversion Portal)
 Enables utility token conversions for feature access
 No CEX/DEX functions
 No trading support and no secondary market
